@@ -84,3 +84,6 @@ The following is a basic workflow that you can use as a quick reference for deve
 
 ***
 Created By: Ayush Gupta
+[Linkedin](https://www.linkedin.com/in/ayush-gupta-3bb02a1a2)
+[Instagram](https://www.instagram.com/ayushh__guptaa/)
+[Gmail](ayush20501.ag@gmail.com)
