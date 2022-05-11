@@ -83,8 +83,8 @@ The following is a basic workflow that you can use as a quick reference for deve
 - Admin panel not working. heroku run bash. Migrations
 
 ***
-Created By: Ayush Gupta
-Gmail: ayush20501.ag@gmail.com
-[Linkedin](https://www.linkedin.com/in/ayush-gupta-3bb02a1a2)
+Created By: Ayush Gupta<br/>
+Gmail: ayush20501.ag@gmail.com<br/>
+[Linkedin](https://www.linkedin.com/in/ayush-gupta-3bb02a1a2)<br/>
 [Instagram](https://www.instagram.com/ayushh__guptaa/)
 
