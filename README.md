@@ -5,6 +5,7 @@ Project is created with-
 1. Django
 2. Bootstrap
 3. OpenWeatherMap
+4. Heroku
 
 [Live App](https://weather-budy-app.herokuapp.com/)
 ***
