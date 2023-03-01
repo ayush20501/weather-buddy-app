@@ -5,9 +5,9 @@ Project is created with-
 1. Django
 2. Bootstrap
 3. OpenWeatherMap
-4. Heroku
+4. Pythonanywhere
 
-[Live App](https://weather-budy-app.herokuapp.com/)
+[Live App](https://weatherbuddy.pythonanywhere.com/)
 ***
 ### SUMMARY OVERFLOW
 The following is a basic workflow that you can use as a quick reference for developing a Django Project.
